@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller App</string>
+    <string name="roll">Roll</string>
+    <string name="diceroll_tostring">diceRoll.toString()</string>
+</resources>
