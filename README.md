@@ -1,2 +1,3 @@
 # Dice-Roller-App
-It's a simple dice roller app made during learning of Android.
+Dice-Roller App for games like ludo, etc.
+Made with Basic Android Principles.
